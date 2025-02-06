@@ -2,7 +2,7 @@
 layout: page
 permalink: /collabration/
 title: collabration
-nav: true
+nav: False
 nav_order: 2
 cv_pdf: yikun_cv.pdf
 description: 
