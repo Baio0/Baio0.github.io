@@ -9,9 +9,7 @@ profile:
   image: Yikun_Bai.jpg
   image_circular: false #false # crops the image to make it circular
   address: >
-    <p>Featheringill Hall 314</p>
-    <p>Vanderbilt University</p>
-    <p>Nashville, TN, 37212</p>
+    <p>Vanderbilt University, Computer science department</p>
 
 news: true  # includes a list of news items
 latest_posts: false #true  # includes a list of the newest posts
