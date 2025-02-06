@@ -16,27 +16,6 @@ latest_posts: false #true  # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
----
-
----
-layout: about
-title: about
-permalink: /
-subtitle: Postdoc @ <a href='https://www.vanderbilt.edu'>Vanderbilt University</a>. Nashville, TN, U.S.
-
-profile:
-  align: right
-  image: Yikun_Bai.jpg
-  image_circular: false #false # crops the image to make it circular
-  address: >
-    <p>Featheringill Hall 314</p>
-    <p>Vanderbilt University</p>
-    <p>Nashville, TN, 37212</p>
-
-news: true  # includes a list of news items
-latest_posts: false #true  # includes a list of the newest posts
-selected_papers: false #true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 
 ---
 
