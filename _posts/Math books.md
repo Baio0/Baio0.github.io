@@ -2,8 +2,8 @@
 layout: post
 title:  recommanded mathmatical references 
 date:   2023-07-28 16:40:16
-description: references
-tags: math ML 
+description: 
+tags: math
 categories: reference
 featured: False
 giscus_comments: true
